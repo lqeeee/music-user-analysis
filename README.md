@@ -15,14 +15,17 @@
 
 ## 🗂️ 仓库结构
 music-user-analysis/
+
 ├── README.md # 本文件
+
 ├── Music_User_Behavior_Churn_Analysis.twb # 仪表盘
+
 ├── data_cleaning.ipynb # 数据清洗与探索
+
 ├── retention_rfm.ipynb # 用户留存分析与价值分层
+
 ├── churn_model.ipynb # 流失预警建模与召回策略
 
-
-text
 
 ## 📦 数据来源
 
